@@ -1,0 +1,170 @@
+
+
+
+
+
+.degenerat {
+    font-style: initial;
+    background-color: aqua;
+}
+
+
+
+
+
+
+
+.main-title {
+    height: 180px;
+    line-height: 300%;
+    top: 50%;
+    font-size: 200%;
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+    border: 1px groove #000;
+    background-image: url(wallpaperbetter.jpg);
+    background-position: center, center;
+    background-size: 100%, 100%;
+    vertical-align: middle;
+    font-family: cursive
+}
+
+.sheeeet {
+    font-size: 200%;
+
+}
+
+.param {
+    font-size: 10%
+
+}
+
+.menu-panel {
+    vertical-align: middle;
+    display: table;
+    top: 50%;
+    border-collapse: separate;
+    width: 100%;
+    text-align: center;
+    border: 0px groove #000;
+    border-spacing: 0px 0px;
+    background-color: dimgray
+}
+
+.button {
+
+
+}
+
+button {
+
+}
+
+form {
+
+}
+
+.button-menu {
+    width: 100%;
+    height: 100px;
+    border: 1px solid #0a3c59;
+    background-color:dimgrey;
+    padding: 0px;
+    vertical-align: middle
+}
+
+.links-action {
+    display: inline-block;
+    width: 19%;
+    height: 108px;
+    border-spacing: 3px;
+    vertical-align: middle;
+}
+
+.getting-started {
+    border-style:solid;
+    border-width: 2px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 100%;
+    width: 90%;
+    margin: auto;
+}
+
+.photo {
+    border-style: solid;
+    border-width: 1px;
+    border-spacing: 1;
+    width: 23%;
+    height: 200px
+
+}
+
+.photo-center {
+    vertical-align: center;
+    display: table;
+    border-collapse: separate;
+    width: 100%;
+    border: 0px groove #000;
+    border-spacing: 0px 0px;
+    margin: auto;
+    text-align: center;
+
+}
+
+.table-test {
+    width: 100%;
+    text-align: center
+}
+
+.tr-test {
+    border-style: solid
+}
+
+td {
+    border-style: solid;
+    border-width: 1px;
+    width: 1%;
+}
+
+.test-button {
+    width: 100%;
+    height: 200px;
+}
+
+
+
+.youtube-video {
+    text-align: center;
+    vertical-align: middle
+}
+
+
+
+.main-box {
+    width: 99%;
+    vertical-align: middle;
+    display:block;
+    margin:auto;
+    border-style: groove;
+    border-width: 1px;
+    background-color: bisque;
+}
+
+body {
+    background: linear-gradient(blue, pink);
+}
+
+.tablica {
+    width: 95%;
+    margin: auto;
+}
+
+p {
+
+}
+
+.tmp {
+    vertical-align: middle
+}
