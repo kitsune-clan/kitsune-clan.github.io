@@ -29,8 +29,9 @@ html {
     border: 1px groove #000;
     background-image: url(wallpaperbetter.jpg);
     background-position: center, center;
-    background-size: 100%, 100%;
+    background-repeat:
     vertical-align: middle;
+    background-size: 110%;
     font-family: cursive;
 }
 
@@ -219,5 +220,5 @@ p {
     line-height: 1.5;
     margin: 0 auto;
     max-width: 800px;
-    padding: 2em 2em 4em;
+    padding: 0.1em;
 }
