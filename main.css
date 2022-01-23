@@ -107,11 +107,11 @@ form {
 
 .photo-center {
     vertical-align: center;
-    display: table;
+    display: block;
     border-collapse: separate;
     width: 100%;
     border: 0px groove #000;
-    border-spacing: 0px 0px;
+    border-spacing: 3px 3px 3px 3px;
     margin: auto;
     text-align: center;
 
@@ -157,15 +157,7 @@ td {
 }
 
 body {
-    background: #fff;
-    box-shadow: 0 0 2px rgba(0, 0, 0, 0.06);
-    color: #545454;
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-    font-size: 16px;
-    line-height: 1.5;
-    margin: 0 auto;
-    max-width: 800px;
-    padding: 2em 2em 4em;
+
 
 }
 
@@ -189,4 +181,43 @@ p {
     font-style: italic;
     color: darkgray;
     text-align: center
+}
+
+@keyframes colorize {
+    0% {
+        -webkit-filter: grayscale(100%);
+        filter: grayscale(100%);
+    }
+    100% {
+        -webkit-filter: grayscale(0%);
+        filter: grayscale(0%);
+    }
+}
+
+.par {
+    text-align: center;
+}
+
+.testhtml {
+    background: #fff;
+    box-shadow: 0 0 2px rgba(0, 0, 0, 0.06);
+    color: #545454;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    margin: 0 auto;
+    width: 800px;
+    padding: 2em 2em 4em;
+}
+
+.body {
+    background: #fff;
+    box-shadow: 0 0 2px rgba(0, 0, 0, 0.06);
+    color: #545454;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    margin: 0 auto;
+    max-width: 800px;
+    padding: 2em 2em 4em;
 }
