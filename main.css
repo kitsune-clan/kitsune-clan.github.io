@@ -29,7 +29,6 @@ html {
     border: 1px groove #000;
     background-image: url(wallpaperbetter.jpg);
     background-position: center, center;
-    background-repeat:
     vertical-align: middle;
     background-size: 110%;
     font-family: cursive;
@@ -58,8 +57,13 @@ html {
 }
 
 .button {
-
-
+    vertical-align: top;
+    margin-left: -95%;
+    margin-top: 0.3%;
+    background-image: url(home.png);
+    padding: 22px 22px;
+    background-size: 100% 100%;
+    border: none;
 }
 
 button {
@@ -174,7 +178,7 @@ p {
 .tmp {
     vertical-align: middle;
     text-align: center;
-    margin-top: 12%;
+    margin-top: -7%;
 }
 
 .colontitul {
