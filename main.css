@@ -27,7 +27,7 @@ html {
     width: 100%;
     text-align: center;
     border: 1px groove #000;
-    background-image: url(wallpaperbetter.jpg);
+    background: linear-gradient(90deg, rgb(152, 207, 195), rgb(86, 181, 184), rgb(237, 242, 208));
     background-position: center, center;
     vertical-align: middle;
     background-size: 110%;
